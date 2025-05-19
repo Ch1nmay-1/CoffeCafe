@@ -334,12 +334,14 @@ button {
     left: 0px;
     right: -60px;
     top: 440px;
+    display: none;
 }
 
 #main_slider a.carousel-control-prev {
     left: -60px;
     right: 0px;
     top: 440px;
+    display: none;
 }
 
 #main_slider .carousel-control-next,
@@ -541,7 +543,7 @@ a:hover {
 .services_section {
     width: 100%;
     float: left;
-    background-image: url(../images/services-bg.png);
+    background-image: url(../images/services-bg1.jpg);
     height: auto;
     padding-bottom: 100px;
     background-attachment: fixed;
